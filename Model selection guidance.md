@@ -6,7 +6,7 @@ Context: Use these when you are stuck on a difficult logical problem or need a c
 2. Standard Flagship Models
 When to choose: General chat, writing documentation, generating boilerplate code, and standard feature implementation.
 Context: This can be the "daily driver" category. They offer a great balance of speed, accuracy, and understanding of context window semantics.
-3. Fast / Lightweight Models (
+3. Fast / Lightweight Models
 When to choose: Quick syntax checks, writing simple unit tests, explaining a small block of code, or generating repetitive code patterns.
 Context: Use these when speed is your highest priority or you want to conserve API tokens/credits.
 
